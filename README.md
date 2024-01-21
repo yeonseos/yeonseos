@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**yeonseos/yeonseos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=fff&height=200&section=header&text=Welcome!%20I'm%20Yeonseo👋&fontSize=30)
 
-Here are some ideas to get you started:
+<h3>👋 Hi there! 👋</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>Frontend Developer</b>
+</p>
+
+<h3>📚 Tech Stack 📚</h3>
+
+<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
+
+</div>  
+
+
+
