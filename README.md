@@ -1,9 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yeonseo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-[![Yeonseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonseos&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yeonseos/github-readme-stats)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Yeonseo's+GitHub!👋)](https://git.io/typing-svg)
+
 <br>
 
 ## 📚 Tech Stack 📚
