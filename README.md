@@ -1,4 +1,3 @@
-<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
@@ -6,6 +5,7 @@
 
 <br>
 
+<div align="center">
 ## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:row;">
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
